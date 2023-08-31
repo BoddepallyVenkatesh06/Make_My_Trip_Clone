@@ -117,11 +117,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
--  [Arpit Sachan](https://github.com/sachanarpit/)
-
-- [Dharmesh Yadav](https://github.com/dharmeshrao)
-
-- [Rahul Kumar Yadav](https://github.com/rahulyadav96)
+-  [Venky Kumar](https://github.com/BoddepallyVenkatesh06/)
 
 
 ## Home Page
