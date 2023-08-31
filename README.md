@@ -153,4 +153,4 @@ To run this project, you will need to add the following environment variables to
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819997027/85PGB_l7i.png)
 
 
-- GITHUB - https://github.com/sachanarpit/make-my-trip
+- GITHUB - https://github.com/BoddepallyVenkatesh06/Make_My_Trip_Clone
